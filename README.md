@@ -1,2 +1,4 @@
-# cpp-transpose-32
+# Cpp Transpose 32
+
 Flipping matrix row/column orientations in C++.
+
